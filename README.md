@@ -7,6 +7,7 @@ This is my first original project made in CSS, and I'm missing some contextual d
 Here's what the theme looks like (Screencap on Macbook Air using Microsoft Edge):
 
 
-<img width="1429" alt="Screen Shot 2021-11-16 at 6 21 56 AM" src="https://user-images.githubusercontent.com/94448101/141977129-23dcd894-6cf0-4f25-a59a-f399483fc7a9.png">
+<img width="993" alt="Screen Shot 2021-11-16 at 6 31 29 AM" src="https://user-images.githubusercontent.com/94448101/141978060-345007ef-06cf-4f15-92b7-2eca976793ef.png">
+
 
 
