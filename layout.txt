@@ -12,7 +12,7 @@
 }
 
 body {
-  background-image: url(https://64.media.tumblr.com/f40904c96fc20e9bf5b7c263c53e2834/06ee70031c87d1b7-88/s640x960/49131d1b4cd522c5ca7f048b00af487f6af62f1c.png);
+  background-color: #FFFFFF;
 }
 * {
         font-family: 'Courier Prime', monospace;
