@@ -1,0 +1,57 @@
+<style>
+/* Layout Code 001, Greyscale Theme by Junglecrussy @ https://spacehey.com/jungle. You are to edit without credit, but of course still abide by Spacehey's guidelines */
+:root{
+  --red: #a5a5a5;
+  --dark-orange: #000000;
+  --light-orange: #a5a5a5;
+  --lighter-blue: #a5a5a5;
+  --darker-blue: #000000;
+  --logo-blue: #474747;
+  --even-lighter-blue: #e0e0e0;
+  --lightest-blue: #f7f8f9;
+}
+
+body {
+  background-image: url(https://64.media.tumblr.com/f40904c96fc20e9bf5b7c263c53e2834/06ee70031c87d1b7-88/s640x960/49131d1b4cd522c5ca7f048b00af487f6af62f1c.png);
+}
+* {
+        font-family: 'Courier Prime', monospace;
+        font-varient: lowercase;
+    }
+
+/* Start custom Mario+Luigi Toad cursor */ * {cursor: url(https://www.dropbox.com/s/2r8qhxobnazfa5y/unnamed.ani?dl=0), url(https://64.media.tumblr.com/0cc381bbbcae2f20d06265075bfa4b80/34aafb48fea3c89e-40/s75x75_c1/0ce7de66793e3ed3f643941bf4ce172ddfe74cba.png), auto !important;} /* End custom cursor */
+
+/* Background of main column with all of your profile info */
+main {
+background: #e1e1e1;
+}
+
+/* Headings for Contacting User, User's Interests, and User's Links */
+h4 {
+  color: black;
+}
+
+/* Add image filter to flashing User icon next to "ONLINE" */ 
+.online img {
+  filter: grayscale(100%);
+}
+
+/* ONLINE text is now black */
+.online {
+    color: #000000;
+}
+
+/* Numbers of friends are now black instead of maroon */
+element.style {
+}
+.count {
+    color: #000000;
+}
+
+/* Icons representing social medias by their name now have the greyscale color filter */
+.icon, .award img {
+  filter: grayscale(100%);
+}
+
+/* End layout code */
+</style>
