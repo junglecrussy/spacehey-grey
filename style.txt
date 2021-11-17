@@ -16,7 +16,6 @@ body {
 }
 * {
         font-family: 'Courier Prime', monospace;
-        font-varient: lowercase;
     }
 
 /* Start custom Mario+Luigi Toad cursor */ * {cursor: url(https://www.dropbox.com/s/2r8qhxobnazfa5y/unnamed.ani?dl=0), url(https://64.media.tumblr.com/0cc381bbbcae2f20d06265075bfa4b80/34aafb48fea3c89e-40/s75x75_c1/0ce7de66793e3ed3f643941bf4ce172ddfe74cba.png), auto !important;} /* End custom cursor */
