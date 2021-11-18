@@ -1,4 +1,4 @@
-# SpaceHey Theme - Greyscale
+# theme-01-greyscale
 My first attempt at a basic SpaceHey theme. Greyscale visuals, a custom lady Toad cursor, and the Courier Prime font used for the entire page. Made with CSS to be implemented into one of Spacehey's "About Me" sections.
 
 This is my first original project made in CSS, and I'm missing some extra helpful details in the code, but it should work perfectly. I will try to add the rest of these details in the near future.
